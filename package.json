@@ -3,6 +3,7 @@
   "version": "2.1.2",
   "description": "Support Vector Machine in Javascript",
   "main": "src/svm.js",
+  "type": "module",
   "directories": {
     "lib": "src",
     "test": "test"
@@ -17,16 +18,7 @@
     "type": "git",
     "url": "https://github.com/mljs/svm"
   },
-  "keywords": [
-    "super",
-    "vector",
-    "machine",
-    "data",
-    "mining",
-    "datamining",
-    "machine",
-    "learning"
-  ],
+  "keywords": ["super", "vector", "machine", "data", "mining", "datamining", "machine", "learning"],
   "author": "Miguel Asencio",
   "license": "MIT",
   "bugs": {
